@@ -1,0 +1,10 @@
+
+…
+java:S1450"hRemove the "activityAddAndEditBinding" field and declare it as a local variable in the relevant methods.(÷¤Ž‘8÷§ä¡ƒ/
+X	java:S110"<This class has 9 parents which is greater than 5 authorized.(äÙù¤8ºâ¡ƒ/
+v
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(›éÕƒþÿÿÿÿ8üôå¡ƒ/
+M
+java:S11729"+Remove this unused method parameter "view".(»…öÙüÿÿÿÿ8´ã¡ƒ/
+
+java:S1450"nRemove the "addAndEditActivityClickHandlers" field and declare it as a local variable in the relevant methods.(ì’Ù°þÿÿÿÿ8÷§ä¡ƒ/

@@ -1,7 +1,25 @@
 
-Y
-)app/src/main/res/layout/activity_main.xml,7/6/76b07e40f24cce093536731477540f12e7da3cb6
 f
 6app/src/main/java/com/talib/mvvmjava/MainActivity.java,9/d/9d7b03fd2d881b6ce265d2a9cf7e9f32c2e057a8
 @
 app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164
+d
+4app/src/main/java/com/talib/mvvmjava/model/Book.java,1/b/1be377f5eb73c9d2893570c5f0b2f25270ef3602
+g
+7app/src/main/java/com/talib/mvvmjava/model/BookDAO.java,e/4/e4bbd5473387c1d446037e1693656f4c33592f87
+k
+;app/src/main/java/com/talib/mvvmjava/model/CategoryDAO.java,7/4/745bed6907d6022968593e42947b29697c27ea9f
+s
+Capp/src/main/java/com/talib/mvvmjava/model/EBookShopRepository.java,f/b/fb1369ef3c44aa4da18f88a1e359817791d1af03
+h
+8app/src/main/java/com/talib/mvvmjava/model/Category.java,9/c/9c1b312d36fadc5756722ecc87c9b0b1a1854d2b
+m
+=app/src/main/java/com/talib/mvvmjava/model/BooksDatabase.java,0/7/071efbe14b9ad29a8a3f9b4eb72659a994b580be
+y
+Iapp/src/main/java/com/talib/mvvmjava/viewmodel/MainActivityViewModel.java,e/2/e2dc27030504638128ced49728c8bdc4d4f974ab
+k
+;app/src/main/java/com/talib/mvvmjava/BooksDiffCallback.java,9/f/9f78161272c30ddf536b41be816848e62fc7c3e2
+f
+6app/src/main/java/com/talib/mvvmjava/BooksAdapter.java,2/0/2035c088c0788a9caccab6c7030d45bd893d52ce
+l
+<app/src/main/java/com/talib/mvvmjava/AddAndEditActivity.java,b/1/b12981c0e2289f3b19d4c500463885f1587bb558

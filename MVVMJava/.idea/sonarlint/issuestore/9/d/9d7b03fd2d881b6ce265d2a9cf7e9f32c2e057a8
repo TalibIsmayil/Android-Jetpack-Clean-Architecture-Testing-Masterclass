@@ -1,0 +1,28 @@
+
+‚
+java:S1450("`Remove the "booksRecyclerView" field and declare it as a local variable in the relevant methods.(æ›Ó—úÿÿÿÿ8­ÚÍ¡ƒ/
+x
+java:S1450)"[Remove the "booksAdapter" field and declare it as a local variable in the relevant methods.(ŸÁ¢‘8…Óß¡ƒ/
+I
+java:S1172‡"&Remove these unused method parameters.(İ±ı‡øÿÿÿÿ8‚òì¡ƒ/
+T
+java:S3398R"2Move this method into "MainActivityClickHandlers".(¶Ó«Æüÿÿÿÿ8…Óß¡ƒ/
+I
+java:S1172€"+Remove this unused method parameter "view".(ûÏ§›8…Óß¡ƒ/
+e
+java:S2259š"BA "NullPointerException" could be thrown; "data" is nullable here.(ÉÌÂÿÿÿÿÿ8‚òì¡ƒ/
+`
+java:S1128">Remove this unused import 'androidx.appcompat.widget.Toolbar'.(ÔËûİùÿÿÿÿ8÷„¢ƒ/
+J
+java:S1604;"(Make this anonymous inner class a lambda(İƒÏ¸şÿÿÿÿ8…Óß¡ƒ/
+X	java:S110 "<This class has 9 parents which is greater than 5 authorized.(²Ú±8…Óß¡ƒ/
+e
+java:S2259£"BA "NullPointerException" could be thrown; "data" is nullable here.(ÉÌÂÿÿÿÿÿ8‚òì¡ƒ/
+y
+java:S1450&"WRemove the "handlers" field and declare it as a local variable in the relevant methods.(ÜñÎ¥şÿÿÿÿ8…Óß¡ƒ/
+O
+java:S1128"2Remove this unused import 'android.view.MenuItem'.(Ğ¬Ó‘8µæœ¢ƒ/
+K
+java:S1128".Remove this unused import 'android.view.Menu'.(£¯Ò…8µæœ¢ƒ/
+w
+java:S1905T"URemove this unnecessary cast to "org.sonar.java.resolve.Symbols$UnknownType@606dd81".(­«ƒºûÿÿÿÿ8µæœ¢ƒ/

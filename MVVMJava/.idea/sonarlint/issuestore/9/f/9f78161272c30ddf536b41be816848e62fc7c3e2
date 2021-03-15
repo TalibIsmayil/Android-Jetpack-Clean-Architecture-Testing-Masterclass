@@ -1,0 +1,5 @@
+
+
+java:S1319"wThe type of the "oldBooksList" object should be an interface such as "List" rather than the implementation "ArrayList".(Æ«Óü
+
+java:S1319"wThe type of the "newBooksList" object should be an interface such as "List" rather than the implementation "ArrayList".(Æ«Óü
